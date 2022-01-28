@@ -11,11 +11,9 @@
 <a href="mailto:k.ladhani1@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
 
-<br />
 <h3> 🚀 About Me :</h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
