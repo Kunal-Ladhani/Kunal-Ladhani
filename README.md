@@ -13,6 +13,9 @@
 </a>
 <br />
 
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
+
+<br />
 <h3> About Me  🚀 </h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -41,8 +44,7 @@
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
 </p>
 
-<br>
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani)
 ![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
