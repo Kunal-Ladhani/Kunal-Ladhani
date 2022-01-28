@@ -14,23 +14,25 @@
 </a>
 </div>
 
-<br />
+<br>
 
 <div>
 <h3> 🚀 About Me :</h3>
 <p>
-  🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+  - 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
 </p>
 <p>
-  💻 I'm currently working as a Graduate Trainee SWE at Vinculum Solutions, India.
+  - 💻 I'm currently working as a Graduate Trainee SWE at Vinculum Solutions, India.
 </p>
 <p>
-  👩‍💻 Previously, I've been a SDE Intern at Picxy, India.  
+  - 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.  
 </p>
 <p>
-  📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+  - 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p>
 </div>
+
+<br>
 
 <div>
 <h3>🛠 Tech Stack</h3>
@@ -46,13 +48,15 @@
 <p>
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
 </p>
-
-<br />
  </div>
 
+<br>
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani) -->
 ![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
+
+
+
 <!--
 ### Hi there 👋
 **Kunal-Ladhani/Kunal-Ladhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
