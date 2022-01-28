@@ -12,6 +12,7 @@
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br />
 <h3> 🚀 About Me :</h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
