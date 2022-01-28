@@ -13,7 +13,7 @@
 </a>
 <br />
 
-[//]: #(<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
 
 <br />
 <h3> 🚀 About Me :</h3>
