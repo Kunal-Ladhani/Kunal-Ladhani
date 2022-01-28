@@ -14,7 +14,6 @@
 </a>
 </div>
 
-<br/>
 
 <div>
 <h3> 🚀 About Me :</h3>
@@ -32,7 +31,6 @@
 </p>
 </div>
 
-<br>
 
 <div>
 <h3>🛠 Tech Stack</h3>
