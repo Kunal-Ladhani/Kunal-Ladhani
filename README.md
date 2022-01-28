@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kunal Ladhani</h1>
 <h4 align="center">A new grad with a Bachelors in Electronics and Instrumentation from BITS Pilani, Goa Campus.</h4>
 
-<h3> 📫 Reach me : </h3>
+<h3> 📫 Reach me :</h3>
 <a href="https://www.linkedin.com/in/kunal-ladhani">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -13,10 +13,10 @@
 </a>
 <br />
 
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
+[//]: #(<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
 
 <br />
-<h3> About Me  🚀 </h3>
+<h3> 🚀 About Me :</h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
 </p>
