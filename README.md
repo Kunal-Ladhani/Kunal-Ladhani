@@ -34,13 +34,13 @@
 
 <h3>🛠 Tech Stack</h3>
 <p>
- - &nbsp; Data Structures & Algorithms | C | C++ | Java | Struts 2
+ - 🌱 &nbsp; Data Structures & Algorithms | C | C++ | Java | Struts 2
 </p>
 <p>
  - 🌐 &nbsp; HTML | CSS | JavaScript | MERN Stack
 </p>
 <p>
- - &nbsp; Operating System | Database | MySQL
+ - 📚 &nbsp; Operating System | Database | MySQL
 <p>
 <p>
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
