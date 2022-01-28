@@ -42,7 +42,7 @@
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani) -->
 ![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
 <!--
