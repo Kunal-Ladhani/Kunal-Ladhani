@@ -12,8 +12,6 @@
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
-
 <h3> 🚀 About Me :</h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -46,7 +44,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani)
 ![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
 <!--
 ### Hi there 👋
 **Kunal-Ladhani/Kunal-Ladhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
