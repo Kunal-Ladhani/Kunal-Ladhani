@@ -14,6 +14,7 @@
 </a>
 </div>
 
+<br>
 
 <div>
 <h3> 🚀 About Me :</h3>
@@ -31,6 +32,7 @@
 </p>
 </div>
 
+<br>
 
 <div>
 <h3>🛠 Tech Stack</h3>
@@ -48,7 +50,7 @@
 </p>
  </div>
 
-
+<br>
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani) -->
 ![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
