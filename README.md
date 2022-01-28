@@ -1,8 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kunal Ladhani</h1>
 <h4 align="center">A new grad with a Bachelors in Electronics and Instrumentation from BITS Pilani, Goa Campus.</h4>
 
-<br>
-
 <div>
 <h3> 📫 Reach me :</h3>
 <a href="https://www.linkedin.com/in/kunal-ladhani">
@@ -16,7 +14,7 @@
 </a>
 </div>
 
-<br>
+<br/>
 
 <div>
 <h3> 🚀 About Me :</h3>
