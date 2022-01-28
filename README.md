@@ -1,12 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kunal Ladhani</h1>
 <h4 align="center">A new grad with a Bachelors in Electronics and Instrumentation from BITS Pilani, Goa Campus.</h4>
 
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
-
-[![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani)
-![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
-
-- 📫 Reach me :
+<h3> 📫 Reach me : </h3>
 <a href="https://www.linkedin.com/in/kunal-ladhani">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -45,6 +40,12 @@
 <p>
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
 </p>
+
+
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
+
+[![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani)
+![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
 
 <!--
 ### Hi there 👋
