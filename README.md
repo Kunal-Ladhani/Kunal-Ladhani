@@ -1,6 +1,7 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kunal Ladhani</h1>
 <h4 align="center">A new grad with a Bachelors in Electronics and Instrumentation from BITS Pilani, Goa Campus.</h4>
 
+<div>
 <h3> 📫 Reach me :</h3>
 <a href="https://www.linkedin.com/in/kunal-ladhani">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -11,8 +12,11 @@
 <a href="mailto:k.ladhani1@gmail.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</div>
 
 <br />
+
+<div>
 <h3> 🚀 About Me :</h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -26,7 +30,9 @@
 <p>
   📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p>
+</div>
 
+<div>
 <h3>🛠 Tech Stack</h3>
 <p>
  - 🌱 &nbsp; Data Structures & Algorithms | C | C++ | Java | Struts 2
@@ -42,6 +48,7 @@
 </p>
 
 <br />
+ </div>
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani) -->
 ![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
