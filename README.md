@@ -41,7 +41,7 @@
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
 </p>
 
-
+<br>
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani)
