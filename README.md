@@ -1,20 +1,15 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kunal Ladhani</h1>
+<h1 align="center">
+	Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Kunal Ladhani
+	<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 <h4 align="center">A new grad with a Bachelors in Electronics and Instrumentation from BITS Pilani, Goa Campus.</h4>
-
-<div>
-<h3> 📫 Reach me :</h3>
-<a href="https://www.linkedin.com/in/kunal-ladhani">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/KunalLadhani">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:k.ladhani1@gmail.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</div>
-
+<h4 align="center">I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.</h4>
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
+<a href="https://github.com/Kunal-Ladhani?tab=followers"><img src="https://img.shields.io/github/followers/Kunal-Ladhani?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 
 <div>
 <h3> 🚀 About Me :</h3>
@@ -34,8 +29,66 @@
 
 <br>
 
-<div>
-<h3>🛠 Tech Stack</h3>
+<div align="center">
+	<h3>
+		<img src ="https://user-images.githubusercontent.com/28822285/174075417-9760fd42-f80f-4885-b9df-46832dd1f86b.png" width="30">
+		Tech Stack
+		<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/>
+	</h3>
+	<p>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071051-ef904323-a73e-4d0b-a929-46e8dc7d0901.png" alt="html5"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071259-802e227c-5e31-44a9-ac52-8b33d0431f79.png" alt="css3"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071825-09100235-b620-4e97-83fe-5cd7c6d5b1f0.png" alt="JavaScript"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071857-9b6419eb-a84b-4be5-bfb7-76f1f65911ec.png" alt="Java"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071990-42be23de-f4e7-43bc-b95a-9c79463153b5.png" alt="Bootstrap"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174074247-8882ac6c-1cce-4fe6-bd70-994505c236fd.png" alt="Node.js"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174074338-6b9909c7-3914-4f6d-8a08-5031e74c8d18.png" alt="C++"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174074463-18eedbcd-ca1b-4fbe-a8f2-27f2f45e30a5.png" alt="SaSS"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075563-21679a73-67fc-4075-8b12-612e9463409e.png" alt="python"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075742-3d3e744a-8ae7-4438-be2c-8996a2ccfde6.png" alt="MySQL"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075848-d0158311-5b32-4a17-924e-0ccc7d4ba093.png" alt="TypeScript"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075948-c6408016-70d6-479f-b2fb-8cc986e1b889.png" alt="PostgreSQL"/>
+	<img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js"/>
+	<img height="30" src="https://pngrow.com/preview/15029/icon-mongodb-logo-png" alt="MongoDB"/>
+	<img width="30" src="https://www.svgrepo.com/show/354126/npm-icon.svg" alt="npm"/>
+	<img width="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express.js"/>
+	<img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postman.png" alt="Postman"/>
+	<img width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174078340-cc392d30-1dac-419d-b51a-83dc63fa8eb3.png" alt="github"/>
+	<img width="30" src="https://spng.subpng.com/20180518/lxx/kisspng-redux-react-javascript-freecodecamp-npm-5afe8d07330f01.4423642715266316872092.jpg" alt="redux"/>
+	<img width="30" src="https://mui.com/static/logo.png" alt="Material UI"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/>
+	<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/>
+	</p>
+</div>
+
+<br>
+
+<div align ="center">
+	<h2>
+		📫 Let's Connect
+		<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" />
+	</h2>
+	<a href="https://www.linkedin.com/in/kunal-ladhani" target="blank">
+		<img width="30px" src="https://user-images.githubusercontent.com/28822285/174063834-a6a1dc06-60fd-46ec-9824-03b0818fa036.png"  />
+	</a>
+	<a href="https://twitter.com/KunalLadhani" target="blank">
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
+	</a>
+	<a title="k.ladhani1@gmail.com" href="mailto:k.ladhani1@gmail.com" target="blank">
+	  <img width="30px" src="https://user-images.githubusercontent.com/28822285/174067714-27007c13-acb9-42e8-b72d-0a20f7d973f0.png" />
+	</a>
+	<a href="https://kunalladhani.hashnode.dev/" target="blank">
+		<img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+	</a>
+	<a href="https://medium.com/@kunal-ladhani" target="blank">
+		<img width="30px" src="https://user-images.githubusercontent.com/28822285/174069450-5dab2b51-8d12-4d77-b529-29bb6b2888e5.png" />
+	</a>
+</div>
+
+<!-- <div>
+<h2> Tech Stack</h2>
 <p>
  - 🌱 &nbsp; Data Structures & Algorithms | C | C++ | Java | Struts 2
 </p>
@@ -49,14 +102,7 @@
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
 </p>
  </div>
-
-<br>
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/Kunal-Ladhani/Kunal-Ladhani?style=for-the-badge&color=orange)](https://github.com/Kunal-Ladhani/Kunal-Ladhani) -->
-![Repos Badge](https://badges.pufler.dev/repos/Kunal-Ladhani?style=for-the-badge&color=blueviolet)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani" alt="Kunal-Ladhani" /> </p>
-
-
+ -->
 
 <!--
 ### Hi there 👋
@@ -81,63 +127,3 @@ Here are some ideas to get you started:
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 
 -->
-
-________________________________________THIS IS TEMPORARY_______________________________
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Kunal Ladhani <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
-<h3>- <i>I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.</i></h3>
-
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
-<a href="https://github.com/m-sehrawat?tab=followers"><img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
-<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
-<img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
-</p>
-
-
-<h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-<p align="left">
-  <a href="https://github.com/m-sehrawat/Mini-Store" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
-  <a href="https://github.com/m-sehrawat/Weather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
-  <a href="https://github.com/m-sehrawat/Translation-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
-<a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
-<a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
-</p>
-
-
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<p align="left">
-<a href="https://linkedin.com/in/m-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-sehrawat" /></a>
-  <a href="https://hashnode.com/@mohit-sehrawat" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="m-sehrawat" /></a>
-  <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
-</p>
-
-
-<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
-</p>
