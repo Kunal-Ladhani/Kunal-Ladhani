@@ -12,7 +12,7 @@
 
 
 <div>
-<h3> 🚀 About Me :</h3>
+<h2> 🚀 About Me :</h2>
 <p>
   - 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
 </p>
@@ -30,22 +30,34 @@
 <br>
 
 <div align="center">
-	<h3>
+	<h2>
 		<img src ="https://user-images.githubusercontent.com/28822285/174075417-9760fd42-f80f-4885-b9df-46832dd1f86b.png" width="30">
 		Tech Stack
 		<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/>
-	</h3>
+	</h2>
+	<div align="left">1. Compiled Languages : </div>
+	<br>
+	<p align="left">
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074338-6b9909c7-3914-4f6d-8a08-5031e74c8d18.png" alt="C++"/> C++ 
+	</p>
+	<p align="left">
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071857-9b6419eb-a84b-4be5-bfb7-76f1f65911ec.png" alt="Java"/> Java
+	</p>
+	<p align="left">
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/> C
+	</p>
+	<p align="left">
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075563-21679a73-67fc-4075-8b12-612e9463409e.png" alt="python"/> Python
+	</p>
+	
 	<p>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071051-ef904323-a73e-4d0b-a929-46e8dc7d0901.png" alt="html5"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071259-802e227c-5e31-44a9-ac52-8b33d0431f79.png" alt="css3"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071825-09100235-b620-4e97-83fe-5cd7c6d5b1f0.png" alt="JavaScript"/>
-	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071857-9b6419eb-a84b-4be5-bfb7-76f1f65911ec.png" alt="Java"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174071990-42be23de-f4e7-43bc-b95a-9c79463153b5.png" alt="Bootstrap"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174074247-8882ac6c-1cce-4fe6-bd70-994505c236fd.png" alt="Node.js"/>
-	<img width="30" src="https://user-images.githubusercontent.com/28822285/174074338-6b9909c7-3914-4f6d-8a08-5031e74c8d18.png" alt="C++"/>
-	<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/>
+	
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174074463-18eedbcd-ca1b-4fbe-a8f2-27f2f45e30a5.png" alt="SaSS"/>
-	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075563-21679a73-67fc-4075-8b12-612e9463409e.png" alt="python"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075742-3d3e744a-8ae7-4438-be2c-8996a2ccfde6.png" alt="MySQL"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075848-d0158311-5b32-4a17-924e-0ccc7d4ba093.png" alt="TypeScript"/>
 	<img width="30" src="https://user-images.githubusercontent.com/28822285/174075948-c6408016-70d6-479f-b2fb-8cc986e1b889.png" alt="PostgreSQL"/>
@@ -96,7 +108,9 @@
  - 🌐 &nbsp; HTML | CSS | JavaScript | MERN Stack
 </p>
 <p>
- - 📚 &nbsp; Operating System | Database | MySQL
+ - 📚 &nbsp; Operating System
+ ![image](https://user-images.githubusercontent.com/28822285/174139017-ddb468e4-9b47-40f6-8c6b-68e5b60ecaa0.png)
+| Database | MySQL
 <p>
 <p>
 - 🔧 &nbsp; Visual Studio code | Sublime | Git | Github
