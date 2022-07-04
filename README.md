@@ -14,10 +14,10 @@
 <div>
 <h2> 🚀 About Me :</h2>
 <p>
-  - 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+  - 🔭 I'm a Software Engineer and like to learn something new everyday.
 </p>
 <p>
-  - 💻 I'm currently working as a Graduate Trainee SWE at Vinculum Solutions, India.
+  - 💻 I'm worked as a Graduate Trainee SWE at Vinculum Solutions, India.
 </p>
 <p>
   - 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.  
