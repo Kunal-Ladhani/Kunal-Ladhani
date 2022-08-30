@@ -63,6 +63,9 @@
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071990-42be23de-f4e7-43bc-b95a-9c79463153b5.png" alt="Bootstrap"/> Bootstrap 5
 		&emsp;
+	</p>
+	<h3 align="left">Learning : </h3>
+	<p>
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074463-18eedbcd-ca1b-4fbe-a8f2-27f2f45e30a5.png" alt="Sass"/> Sass
 		&emsp;
 		<img width="30" src="https://mui.com/static/logo.png" alt="Material UI"/>Material UI
@@ -94,7 +97,8 @@
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078340-cc392d30-1dac-419d-b51a-83dc63fa8eb3.png" alt="github"/> Github
 		&emsp;
-		<img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postman.png" alt="Postman"/> Postman
+		<img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/> Postman
+		
 		&emsp;
 		<img width="30" src="https://www.svgrepo.com/show/354126/npm-icon.svg" alt="npm"/> npm
 	</p>
