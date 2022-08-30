@@ -65,7 +65,6 @@
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/> C
 	</p>
 	<br>
-	
 	<h3 align="left">2. Web Development : </h3>
 	<br>
 	<p>
