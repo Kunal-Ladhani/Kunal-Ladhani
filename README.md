@@ -111,7 +111,7 @@
 
 <!-- =========================================== LEARNING ========================================== -->
 <div align="left">
-<h2 align="left">Learning : </h3>
+<h3 align="left">6. Learning : </h3>
 	<h4 align="left">A. Scripting Languages :</h4>
 	<br>
 	<p align="left">
