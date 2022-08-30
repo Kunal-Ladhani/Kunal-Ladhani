@@ -65,13 +65,7 @@
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/> C
 	</p>
 	<br>
-	<!-- 	 
-	<div align="left">1. Scripting Languages : </div>
-	<br>
-	<p align="left">
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075563-21679a73-67fc-4075-8b12-612e9463409e.png" alt="python"/> Python
-	</p>
-	-->
+	
 	<h3 align="left">2. Web Development : </h3>
 	<br>
 	<p>
@@ -85,30 +79,54 @@
 		&emsp;
 	</p>
 	<h3 align="left">Learning : </h3>
+	<div align="left">
+		A. Scripting Languages :
+	</div>
+	<br>
+	<p align="left">
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075563-21679a73-67fc-4075-8b12-612e9463409e.png" alt="python"/> Python
+	</p>
+	<div align="left">
+		B. Frontend :
+	</div>
 	<p>
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074463-18eedbcd-ca1b-4fbe-a8f2-27f2f45e30a5.png" alt="Sass"/> Sass
 		&emsp;
 		<img width="30" src="https://mui.com/static/logo.png" alt="Material UI"/>Material UI
-		<br>
-		<br>
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074247-8882ac6c-1cce-4fe6-bd70-994505c236fd.png" alt="Node.js"/> Node.js
-		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075848-d0158311-5b32-4a17-924e-0ccc7d4ba093.png" alt="TypeScript"/> TypeScript
 		&emsp;
 		<img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js"/> React.js	
 		&emsp;
 		<img width="30" src="https://spng.subpng.com/20180518/lxx/kisspng-redux-react-javascript-freecodecamp-npm-5afe8d07330f01.4423642715266316872092.jpg" alt="redux"/> Redux.js
 		&emsp;
-		<img width="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express.js"/> Express.js
-		&emsp;
-		<img height="30" src="https://pngrow.com/preview/15029/icon-mongodb-logo-png" alt="MongoDB"/> MongoDB
 	</p>
-	<h3 align="left">3. Database : </h3>
-	<br>
+	<div align="left">
+		C. Backend :
+	</div>
 	<p>
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075742-3d3e744a-8ae7-4438-be2c-8996a2ccfde6.png" alt="MySQL"/> MySQL
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074247-8882ac6c-1cce-4fe6-bd70-994505c236fd.png" alt="Node.js"/> Node.js
+		&emsp;
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075848-d0158311-5b32-4a17-924e-0ccc7d4ba093.png" alt="TypeScript"/> TypeScript
+		&emsp;
+		<img width="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express.js"/> Express.js
+	</p>
+	<div align="left">
+		D. Database :
+	</div>	
+	<p>	
+		<img height="30" src="https://pngrow.com/preview/15029/icon-mongodb-logo-png" alt="MongoDB"/> MongoDB
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075948-c6408016-70d6-479f-b2fb-8cc986e1b889.png" alt="PostgreSQL"/> PostgreSQL
+	
+	</p>
+	<h3 align="left">3. Backend and DB : </h3>
+	<br>
+	<p>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
+		&emsp;
+		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> Sprint Boot
+		&emsp;
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075742-3d3e744a-8ae7-4438-be2c-8996a2ccfde6.png" alt="MySQL"/> MySQL
+		&emsp;
 	</p>
 	<h3 align="left">4. Tools and Tech : </h3>
 	<br>
@@ -118,7 +136,6 @@
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078340-cc392d30-1dac-419d-b51a-83dc63fa8eb3.png" alt="github"/> Github
 		&emsp;
 		<img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/> Postman
-		
 		&emsp;
 		<img width="30" src="https://www.svgrepo.com/show/354126/npm-icon.svg" alt="npm"/> npm
 	</p>
