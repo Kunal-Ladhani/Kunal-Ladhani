@@ -78,9 +78,9 @@
 	<h3 align="left">3. Backend and DB : </h3>
 	<br>
 	<p>
-		<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d00048205a466c174da3c77093a1336/apache-maven.png" alt="maven" width="40" height="40"/> Maven
+		<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d00048205a466c174da3c77093a1336/apache-maven.png" alt="maven" width="50" height="50"/> Maven
 		&emsp;
-		<img src="https://assets.stickpng.com/images/58480887cef1014c0b5e48ec.png" alt="hibernate" width="40" height="40"/> Hibernate
+		<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> Hibernate
 		&emsp;
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> Sprint Boot
 		&emsp;
