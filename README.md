@@ -149,7 +149,6 @@
 		<img height="30" src="https://pngrow.com/preview/15029/icon-mongodb-logo-png" alt="MongoDB"/> MongoDB
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075948-c6408016-70d6-479f-b2fb-8cc986e1b889.png" alt="PostgreSQL"/> PostgreSQL
-	
 	</p>
 </div>
 
