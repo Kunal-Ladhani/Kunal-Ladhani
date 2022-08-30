@@ -64,7 +64,6 @@
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/> C
 	</p>
-	<br>
 	<h3 align="left">2. Web Development : </h3>
 	<br>
 	<p>
@@ -75,17 +74,16 @@
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071825-09100235-b620-4e97-83fe-5cd7c6d5b1f0.png" alt="JavaScript"/> JavaScript
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071990-42be23de-f4e7-43bc-b95a-9c79463153b5.png" alt="Bootstrap"/> Bootstrap 5
-		&emsp;
 	</p>
 	<h3 align="left">3. Backend and DB : </h3>
 	<br>
 	<p>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
-		&emsp;
+		Maven Hibernate JPA
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> Sprint Boot
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075742-3d3e744a-8ae7-4438-be2c-8996a2ccfde6.png" alt="MySQL"/> MySQL
 		&emsp;
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
 	</p>
 	<h3 align="left">4. Tools and Tech : </h3>
 	<br>
