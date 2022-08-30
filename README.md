@@ -109,6 +109,50 @@
 	</p>
 </div>
 
+<!-- =========================================== LEARNING ========================================== -->
+<div align="left">
+<h3 align="left">Learning : </h3>
+	<div align="left">
+		A. Scripting Languages :
+	</div>
+	<br>
+	<p align="left">
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075563-21679a73-67fc-4075-8b12-612e9463409e.png" alt="python"/> Python
+	</p>
+	<div align="left">
+		B. Frontend :
+	</div>
+	<p>
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074463-18eedbcd-ca1b-4fbe-a8f2-27f2f45e30a5.png" alt="Sass"/> Sass
+		&emsp;
+		<img width="30" src="https://mui.com/static/logo.png" alt="Material UI"/>Material UI
+		&emsp;
+		<img width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js"/> React.js	
+		&emsp;
+		<img width="30" src="https://spng.subpng.com/20180518/lxx/kisspng-redux-react-javascript-freecodecamp-npm-5afe8d07330f01.4423642715266316872092.jpg" alt="redux"/> Redux.js
+		&emsp;
+	</p>
+	<div align="left">
+		C. Backend :
+	</div>
+	<p>
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174074247-8882ac6c-1cce-4fe6-bd70-994505c236fd.png" alt="Node.js"/> Node.js
+		&emsp;
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075848-d0158311-5b32-4a17-924e-0ccc7d4ba093.png" alt="TypeScript"/> TypeScript
+		&emsp;
+		<img width="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express.js"/> Express.js
+	</p>
+	<div align="left">
+		D. Database :
+	</div>	
+	<p>	
+		<img height="30" src="https://pngrow.com/preview/15029/icon-mongodb-logo-png" alt="MongoDB"/> MongoDB
+		&emsp;
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075948-c6408016-70d6-479f-b2fb-8cc986e1b889.png" alt="PostgreSQL"/> PostgreSQL
+	
+	</p>
+</div>
+
 <br>
 
 <!-- =============================================== CONNECT WITH ME =========================================== -->
