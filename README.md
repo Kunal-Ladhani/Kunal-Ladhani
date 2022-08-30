@@ -1,3 +1,7 @@
+<!-- =============================================== IMAGE =========================================== -->
+<div align="center">
+	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 <!-- =============================================== TITLE =========================================== -->
 <h1 align="center">
 	Hey 
@@ -16,10 +20,6 @@
 </h4>
 
 <br>
-<!-- =============================================== IMAGE =========================================== -->
-<div align="center">
-	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
 <!-- =============================================== BADGES =========================================== -->
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&label=Profile%20views&color=0e75b6&style=flat" />
