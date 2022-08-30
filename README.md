@@ -98,6 +98,8 @@
 		<img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman"/> Postman
 		&emsp;
 		<img width="30" src="https://www.svgrepo.com/show/354126/npm-icon.svg" alt="npm"/> npm
+		&emsp;
+		<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iRvdMi8JbYTmss0_i6vsZz5GGke3vy3YhrGhp30&s" alt="Linux"/> Linux
 	</p>
 	<h3 align="left">5. Technical Subjects : </h3>
 	<br>
