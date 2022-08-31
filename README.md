@@ -64,7 +64,7 @@
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174079572-0a6949e3-8a1c-4b0e-8e2d-58c94cba9402.png" alt="C"/> C
 	</p>
-	<h3 align="left">2. Web Development : </h3>
+	<h3 align="left">2. Frontend : </h3>
 	<br>
 	<p>
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071051-ef904323-a73e-4d0b-a929-46e8dc7d0901.png" alt="html5"/> HTML 5
