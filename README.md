@@ -1,7 +1,3 @@
-<!-- =============================================== IMAGE =========================================== -->
-<div align="center">
-	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
 <!-- =============================================== TITLE =========================================== -->
 <h1 align="center">
 	Hey 
@@ -19,13 +15,15 @@
 	I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.
 </h4>
 
+<!-- =============================================== IMAGE =========================================== -->
+<div align="center">
+	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
 <br>
 <!-- =============================================== BADGES =========================================== -->
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&label=Profile%20views&color=0e75b6&style=flat" />
-	<a align="center" href="https://github.com/Kunal-Ladhani?tab=followers">
-		<img src="https://img.shields.io/github/followers/Kunal-Ladhani?label=Followers&style=social" alt="GitHub Badge">
-	</a>
 </p>
 
 <!-- =============================================== ABOUT ME =========================================== -->
