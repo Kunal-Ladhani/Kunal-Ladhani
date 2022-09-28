@@ -35,7 +35,7 @@
   - 🔭 I'm a Software Engineer and like to learn something new everyday.
 </p>
 <p>
-  - 💻 I'm worked as a Graduate Trainee SWE at Vinculum Solutions, India.
+  - 💻 I've worked as a Graduate Trainee SWE at Vinculum Solutions, India.
 </p>
 <p>
   - 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.  
