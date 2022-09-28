@@ -21,19 +21,13 @@
 -->
 <!-- =============================================== ABOUT ME =========================================== -->
 <div>
-<h2> 🚀 About Me :</h2>
-<p>
-  - 🔭 I'm a Software Engineer and like to learn something new everyday.
-</p>
-<p>
-  - 💻 I've worked as a Graduate Trainee SWE at Vinculum Solutions, India.
-</p>
-<p>
-  - 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.  
-</p>
-<p>
-  - 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
-</p>
+	<h2> 🚀 About Me :</h2>
+	<ul>
+	<h5>- 🔭 I'm a Software Engineer and like to learn something new everyday.</h5>
+	<h5>- 💻 I've worked as a Graduate Trainee SWE at Vinculum Solutions, India.</h5>
+	<h5>- 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.</h5>
+	<h5>- 📚 In my free time I love to learn about latest technologies and work on my logic building skills.</h5>
+	</ul>
 </div>
 
 <br>
