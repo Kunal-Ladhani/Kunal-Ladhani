@@ -9,23 +9,15 @@
 <!-- =============================================== SUB-TITLE =========================================== -->
 <h4 align="center">
 	A new grad with a Bachelors in Electronics and Instrumentation from BITS Pilani, Goa Campus.
-</h4>
-
-<h4 align="center">
 	I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.
 </h4>
-
 <!-- =============================================== IMAGE =========================================== -->
-<div align="center">
-	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
+	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right">
 <br>
-<!-- =============================================== BADGES =========================================== -->
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
+<!-- =============================================== BADGES =========================================== 
+<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&label=Profile%20views&color=0e75b6&style=flat" align="left" />
+<br>
+-->
 <!-- =============================================== ABOUT ME =========================================== -->
 <div>
 <h2> 🚀 About Me :</h2>
@@ -177,6 +169,21 @@
 	<a href="https://medium.com/@kunal-ladhani" target="blank">
 		<img width="30px" src="https://user-images.githubusercontent.com/28822285/174069450-5dab2b51-8d12-4d77-b529-29bb6b2888e5.png" />
 	</a>
+</div>
+<br>
+<br>
+<!-- =============================================== SOME STATS =========================================== -->
+<div align="left">
+	<h2 align="center">SOME STATS </h2>
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-ladhani&theme=radical" alt="kunalladhani" width="47%"/>
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunal-ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="47%"/>
+	<br><br><br><br><br><br><br><br><br><br>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="29%"/>
+	<img align="right" src="https://activity-graph.herokuapp.com/graph?username=kunal-ladhani&bg_color=radical&area=true" width="65%"/>
+	<p>
+	</p>
+	<a href="http://www.github.com/JaiminSheladiya"><img src="https://activity-graph.herokuapp.com/graph?username=kunal-ladhani&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 </div>
 
 <!-- =============================================== EXTRA STUFF =========================================== -->
