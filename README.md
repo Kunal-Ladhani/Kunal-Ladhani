@@ -58,7 +58,7 @@
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071825-09100235-b620-4e97-83fe-5cd7c6d5b1f0.png" alt="JavaScript"/> JavaScript
 		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071990-42be23de-f4e7-43bc-b95a-9c79463153b5.png" alt="Bootstrap"/> Bootstrap 5
+<!-- 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174071990-42be23de-f4e7-43bc-b95a-9c79463153b5.png" alt="Bootstrap"/> Bootstrap 5 -->
 	</p>
 	<h3 align="left">3. Backend and DB : </h3>
 	<br>
@@ -67,7 +67,9 @@
 		&emsp;
 		<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> Hibernate
 		&emsp;
-		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> Sprint Boot
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4egZpRSsE9WEPJYxU9bM9u2X4IrN2WA4aa91lN0Q&s" alt="JDBC" width="40" height="40"/>JDBC
+		&emsp;
+		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>Spring & Sprint Boot
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174075742-3d3e744a-8ae7-4438-be2c-8996a2ccfde6.png" alt="MySQL"/> MySQL
 		&emsp;
@@ -84,7 +86,14 @@
 		&emsp;
 		<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iRvdMi8JbYTmss0_i6vsZz5GGke3vy3YhrGhp30&s" alt="Linux"/> Linux
 		&emsp;
+		<img width="30" src="" alt="STS"/>Spring Tool Suite
+		&emsp;
+		<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ"/>IntelliJ
+		&emsp;
 		<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code"/> VS Code
+		&emsp;
+		<img width="30" src="https://spring.io/images/logo-eclipse-02147c535e095dcbf9798552c191e58a.svg" alt="Eclipse"/>Eclipse
+		&emsp;
 	</p>
 <!-- 	<h3 align="left">5. Technical Subjects : </h3>
 	<br>
