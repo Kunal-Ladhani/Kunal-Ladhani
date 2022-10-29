@@ -9,7 +9,7 @@
 <!-- =============================================== SUB-TITLE =========================================== -->
 <h4 align="center">
 	I am a passionate Java Full-Stack Developer, dedicated to developing scalable, robust and elegant applications that live on the internet.
-	Extensive experience in web design, and API development. Recent grad from BITS Pilani with a B.E. in Electronics and Instrumentation.
+	Experienced in web design, and API development. Recently graduated from BITS Pilani with a B.E. in Electronics and Instrumentation.
 	I take a problem-solving approach with a goal to optimize my applications for better stability and speed. Love to work with teams.
 </h4>
 <!-- =============================================== IMAGE =========================================== -->
@@ -23,7 +23,7 @@
 <div>
 	<h2> 🚀 About Me :</h2>
 	<ul>
-	<h4>- 🔭 I'm a Software Engineer and like to learn something new everyday.</h4>
+	<h4>- 🔭 I'm a Software Developer and I like to learn something new everyday.</h4>
 	<h4>- 💻 I've worked as a Graduate Trainee SWE at Vinculum Solutions, India.</h4>
 	<h4>- 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.</h4>
 	<h4>- 📚 In my free time I love to learn about latest technologies and work on my problem-solving skills.</h4>
@@ -98,11 +98,12 @@
 	<h3 align="left">5. Technical Subjects : </h3>
 	<br>
 	<p>
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/> Data Structures and Algorithms
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/>
+		Data Structures and Algorithms
 		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> Operating Systems
+<!-- 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> Operating Systems
 		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> Database Systems
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> Database Systems -->
 	</p>
 </div>
 
