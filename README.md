@@ -86,7 +86,7 @@
 		&emsp;
 		<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code"/> VS Code
 	</p>
-	<h3 align="left">5. Technical Subjects : </h3>
+<!-- 	<h3 align="left">5. Technical Subjects : </h3>
 	<br>
 	<p>
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/> DSA
@@ -94,11 +94,11 @@
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> OS
 		&emsp;
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> DBMS
-	</p>
+	</p> -->
 </div>
 
 <!-- =========================================== LEARNING ========================================== -->
-<div align="left">
+<!-- <div align="left">
 <h3 align="left">6. Learning : </h3>
 	<h4 align="left">A. Scripting Languages :</h4>
 	<br>
@@ -134,7 +134,7 @@
 		<img width="30" src="https://www.svgrepo.com/show/354126/npm-icon.svg" alt="npm"/> npm
 	</p>	
 </div>
-
+ -->
 <br>
 
 <!-- =============================================== CONNECT WITH ME =========================================== -->
@@ -169,26 +169,14 @@
 <br>
 <!-- =============================================== SOME STATS =========================================== -->
 <div align="left">
-	<h2 align="center">⚡ Some Github Stats </h2>
+	<h2 align="center">⚡ My Github Stats </h2>
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=radical" alt="kunalladhani" width="47%"/>
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="47%"/>
 	<br><br><br><br><br><br><br><br><br><br>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="29%"/>
-	<img align="right" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&bg_color=radical&area=true" width="65%"/>
-	<p>
-	</p>
 </div>
 
-<!----------------------------------- Star Section ------------------------------------>
 
- <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Kunal-Ladhani" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Ladhani&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Kunal-Ladhani" height="139"/>
-</p>
-<br>
-  
  <!--------------------------------------------------------------------------------> 
    <h2><i>Recent GitHub Activity</i></h2>
   <br/>
