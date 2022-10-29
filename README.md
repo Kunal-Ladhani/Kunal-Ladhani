@@ -147,7 +147,7 @@
  -->
 <br>
 <!-- =============================================== SOME STATS =========================================== -->
-<div align="left">
+<div align="center">
 	<h2 align="center">⚡ My Github Stats </h2>
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=radical" alt="kunalladhani" width="47%"/>
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="47%"/>
@@ -157,7 +157,7 @@
 
 
 <!--------------------------------------------------------------------------------> 
-<h2><i>Recent GitHub Activity</i></h2>
+<h2 align="center"><i>Recent GitHub Activity</i></h2>
 <br>
 	<a href="https://github.com/sathish-dhana">
 		<img align="center" alt="Kunal-Ladhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&custom_title=Kunal-Ladhani's%20Contribution%20Graph&theme=react-dark" />
@@ -195,9 +195,6 @@
 </div>
 <br>
 <br>
-
-
-
 <!----------------------------------- Footer Section ------------------------------------>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
