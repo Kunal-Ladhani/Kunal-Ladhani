@@ -173,16 +173,16 @@
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=radical" alt="kunalladhani" width="47%"/>
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="47%"/>
 	<br><br><br><br><br><br><br><br><br><br>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="29%"/>
-	<img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
-<p></p>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="29%"/>
 </div>
 
 
  <!--------------------------------------------------------------------------------> 
    <h2><i>Recent GitHub Activity</i></h2>
   <br/>
-   <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&custom_title=Kunal-Ladhani's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sathish-dhana">
+	<img align="center" alt="Kunal-Ladhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&custom_title=Kunal-Ladhani's%20Contribution%20Graph&theme=react-dark" />
+</a>
   <br/>
 
 
