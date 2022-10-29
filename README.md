@@ -63,7 +63,7 @@
 	<h3 align="left">3. Backend and DB : </h3>
 	<br>
 	<p>
-		<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9d00048205a466c174da3c77093a1336/apache-maven.png" alt="maven" width="50" height="50"/> Maven
+		<img src="./maven.png" alt="maven" width="50" height="50"/> Maven
 		&emsp;
 		<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> Hibernate
 		&emsp;
@@ -75,7 +75,7 @@
 		&emsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
 	</p>
-	<h3 align="left">4. Tools and Tech : </h3>
+	<h3 align="left">4. Tools : </h3>
 	<br>
 	<p>
 		<img width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/> git
@@ -95,15 +95,15 @@
 		<img width="30" src="https://spring.io/images/logo-eclipse-02147c535e095dcbf9798552c191e58a.svg" alt="Eclipse"/>Eclipse
 		&emsp;
 	</p>
-<!-- 	<h3 align="left">5. Technical Subjects : </h3>
+	<h3 align="left">5. Technical Subjects : </h3>
 	<br>
 	<p>
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/> DSA
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/> Data Structures and Algorithms
 		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> OS
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> Operating Systems
 		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> DBMS
-	</p> -->
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> Database Systems
+	</p>
 </div>
 
 <!-- =========================================== LEARNING ========================================== -->
