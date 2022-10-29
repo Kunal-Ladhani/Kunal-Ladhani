@@ -174,6 +174,8 @@
 	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="47%"/>
 	<br><br><br><br><br><br><br><br><br><br>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=radical" alt="kunalladhani" width="29%"/>
+	<img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
+<p></p>
 </div>
 
 
