@@ -86,7 +86,7 @@
 		&emsp;
 		<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7iRvdMi8JbYTmss0_i6vsZz5GGke3vy3YhrGhp30&s" alt="Linux"/> Linux
 		&emsp;
-		<img width="30" src="" alt="STS"/>Spring Tool Suite
+		<img width="30" src="./STS.jpg" alt="STS"/>Spring Tool Suite
 		&emsp;
 		<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ"/>IntelliJ
 		&emsp;
