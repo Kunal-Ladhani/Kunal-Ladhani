@@ -182,13 +182,16 @@ DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph
 <div align="center">
 	<h2 align="center">✨ My Projects </h2>
 	<div align="center">
-		<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=OnlineTripManagementSystemApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-		<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=weatherApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=OnlineTripManagementSystemApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+		&emsp;
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=weatherApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
 	</div>
 	<div align="center">
-		<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=movieFinder&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-		<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Ssense-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=movieFinder&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+		&emsp;
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Ssense-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
 	</div>
+	&emsp;
 	<div>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
 	</div>
