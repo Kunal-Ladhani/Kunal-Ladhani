@@ -146,36 +146,8 @@
 </div>
  -->
 <br>
-<!-- =============================================== SOME STATS =========================================== -->
-<!-- 
-	GITHUB STATS CARD
 
-	documentation = https://github.com/anuraghazra/github-readme-stats	
-	transparent - light theme
-	dracula - dark theme
--->
-<div align="center">
-	<h2 align="center">⚡ My Github Stats </h2>
-	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&color=orange&style=plastic" alt="bootstrap" height="30"/>
-	<br><br>
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
-	<br><br><br><br><br><br><br><br><br><br>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="29%"/>
-</div>
-<div>
-	<h2 align="center"><i>Recent GitHub Activity</i></h2>
-	<br>
-	<img align="center" alt="Kunal-Ladhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&custom_title=Kunal-Ladhani's%20Contribution%20Graph&theme=github"/>
-	<br>
-</div>
-<!--
-GITHUB ACTIVITY GRAPH
-
-DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph  
--->
 <!-- =============================================== PROJECTS =========================================== -->
-
 <div align="center">
 	<h2 align="center">✨ My Projects </h2>
 	<div align="center">
@@ -194,6 +166,38 @@ DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
 	</div>
 </div>
+
+<!-- =============================================== SOME STATS =========================================== -->
+<!-- 
+	GITHUB STATS CARD
+
+	documentation = https://github.com/anuraghazra/github-readme-stats	
+	transparent - light theme
+	dracula - dark theme
+-->
+<div align="center">
+	<h2 align="center">⚡ My Github Stats </h2>
+	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&color=orange&style=plastic" alt="bootstrap" height="30"/>
+	<br><br>
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
+	<br><br><br><br><br><br><br><br><br><br>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="29%"/>
+</div>
+<div align="center">
+	<h2 align="center"><i>Recent GitHub Activity</i></h2>
+	<br>
+	<img align="center" alt="Kunal-Ladhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&custom_title=Kunal-Ladhani's%20Contribution%20Graph&theme=github"/>
+	<br>
+</div>
+<!--
+GITHUB ACTIVITY GRAPH
+
+DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph  
+-->
+
+
+
 <!-- =============================================== CONNECT WITH ME =========================================== -->
 <div align ="center">
 	<h2>
