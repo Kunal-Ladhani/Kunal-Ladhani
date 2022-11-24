@@ -186,6 +186,7 @@ DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph
 		&emsp;
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=weatherApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
 	</div>
+	&emsp;
 	<div align="center">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=movieFinder&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
 		&emsp;
