@@ -151,13 +151,11 @@
 	<h2 align="center">⚡ My Github Stats </h2>
 	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&color=orange&style=plastic" alt="bootstrap" height="30"/>
 	<br><br>
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=dracula" alt="kunalladhani" width="47%"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula" alt="kunalladhani" width="47%"/>
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
 	<br><br><br><br><br><br><br><br><br><br>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula" alt="kunalladhani" width="29%"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="29%"/>
 </div>
-
-
 <!-- 
 	GITHUB STATS CARD
 
@@ -179,7 +177,21 @@ GITHUB ACTIVITY GRAPH
 DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph  
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=OnlineTripManagementSystemApp&locale=en&theme=dracula" alt="kunalladhani"/>
+<!-- =============================================== PROJECTS =========================================== -->
+
+<div align="center">
+	<h2 align="center">✨ My Projects </h2>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=OnlineTripManagementSystemApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
+	&emsp;
+	<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=weatherApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%/>
+	<br>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=movieFinder&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%/>
+	&emsp;
+	<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Ssense-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%/>
+	<br>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%/>
+</div>
+
 
 <!-- =============================================== CONNECT WITH ME =========================================== -->
 <div align ="center">
