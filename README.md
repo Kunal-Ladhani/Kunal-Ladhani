@@ -147,26 +147,6 @@
  -->
 <br>
 
-<!-- =============================================== PROJECTS =========================================== -->
-<div align="center">
-	<h2 align="center">✨ My Projects </h2>
-	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=OnlineTripManagementSystemApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-		&emsp;
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=weatherApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-	</div>
-	&emsp;
-	<div align="center">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=movieFinder&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-		&emsp;
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Ssense-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-	</div>
-	&emsp;
-	<div>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
-	</div>
-</div>
-
 <!-- =============================================== SOME STATS =========================================== -->
 <!-- 
 	GITHUB STATS CARD
@@ -232,6 +212,27 @@ DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
+
+<!-- =============================================== PROJECTS =========================================== 
+<div align="center">
+	<h2 align="center">✨ My Projects </h2>
+	<div align="center">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=OnlineTripManagementSystemApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+		&emsp;
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=weatherApp&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+	</div>
+	&emsp;
+	<div align="center">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=movieFinder&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+		&emsp;
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Ssense-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+	</div>
+	&emsp;
+	<div>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&locale=en&theme=dracula&border_radius=30" alt="kunalladhani"/>
+	</div>
+</div>
+-->
 
 <!-- =============================================== EXTRA STUFF =========================================== -->
 <!--
