@@ -167,16 +167,15 @@
 <div align="center">
 	<h2 align="center"><i>Recent GitHub Activity</i></h2>
 	<br>
-	<img align="center" alt="Kunal-Ladhani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Ladhani&custom_title=Kunal-Ladhani's%20Contribution%20Graph&theme=github"/>
+	<img align="center" alt="Kunal-Ladhani's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kunal-Ladhani&area=true&hide_border=true&theme=github"/>
 	<br>
 </div>
+
 <!--
 GITHUB ACTIVITY GRAPH
-
+-----------------------
 DOCUMENTATION => https://github.com/Ashutosh00710/github-readme-activity-graph  
 -->
-
-
 
 <!-- =============================================== CONNECT WITH ME =========================================== -->
 <div align ="center">
