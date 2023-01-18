@@ -1,8 +1,6 @@
 <!-- =============================================== TITLE =========================================== -->
 <h1 align="center">
-	Hey 
-	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-	, I'm Kunal Ladhani
+	Hey! I'm Kunal Ladhani
 	<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -101,14 +99,14 @@
 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078901-b2838b66-ec99-4092-a454-2da03d959fe0.png" alt="DSA"/>
 		Data Structures and Algorithms
 		&emsp;
-<!-- 		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> Operating Systems
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174147208-0b1bc532-fbdb-400c-ab8c-37db55322dbf.png" alt="OS"> Operating Systems
 		&emsp;
-		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> Database Systems -->
+		<img width="30" src="https://user-images.githubusercontent.com/28822285/174078598-8ff1c9a8-9dbb-414b-be5d-6aec840eecc8.png" alt="DBMS"/> Database Systems
 	</p>
 </div>
 
 <!-- =========================================== LEARNING ========================================== -->
-<!-- <div align="left">
+<div align="left">
 <h3 align="left">6. Learning : </h3>
 	<h4 align="left">A. Scripting Languages :</h4>
 	<br>
@@ -144,7 +142,6 @@
 		<img width="30" src="https://www.svgrepo.com/show/354126/npm-icon.svg" alt="npm"/> npm
 	</p>	
 </div>
- -->
 <br>
 
 <!-- =============================================== SOME STATS =========================================== -->
