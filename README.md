@@ -160,9 +160,9 @@
 	<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&color=orange&style=plastic" alt="bootstrap" height="30"/>
 	<br><br>
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ladhani&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
+	<img align="right" src="https://github-readme-stats-9dt9gsa2b-kunal-ladhani.vercel.app/api?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="47%"/>
 	<br><br><br><br><br><br><br><br><br><br>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="29%"/>
+	<img align="center" src="https://github-readme-stats-9dt9gsa2b-kunal-ladhani.vercel.app/api/top-langs?username=Kunal-Ladhani&show_icons=true&locale=en&theme=dracula&border_radius=30" alt="kunalladhani" width="29%"/>
 </div>
 <div align="center">
 	<h2 align="center"><i>Recent GitHub Activity</i></h2>
