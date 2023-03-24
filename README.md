@@ -19,7 +19,7 @@
 -->
 <!-- =============================================== ABOUT ME =========================================== -->
 <div>
-	<h2> 🚀 About Me :</h2>
+	<h2 align="center"> 🚀 About Me :</h2>
 	<ul>
 	<h4>- 🔭 I'm a Software Developer and I like to learn something new everyday.</h4>
 	<h4>- 💻 I've worked as a Graduate Trainee SWE at Vinculum Solutions, India.</h4>
