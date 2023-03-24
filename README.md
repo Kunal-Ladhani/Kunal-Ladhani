@@ -5,11 +5,11 @@
 </h1>
 
 <!-- =============================================== SUB-TITLE =========================================== -->
-<h4 align="center">
+<p align="center">
 	I am a passionate Java Full-Stack Developer, dedicated to developing scalable, robust and elegant applications that live on the internet.
 	Experienced in web design, and API development. Recently graduated from BITS Pilani with a B.E. in Electronics and Instrumentation.
 	I take a problem-solving approach with a goal to optimize my applications for better stability and speed. Love to work with teams.
-</h4>
+</p>
 <!-- =============================================== IMAGE =========================================== -->
 	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right">
 <br>
