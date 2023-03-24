@@ -7,7 +7,7 @@
 
 <!-- =============================================== SUB-TITLE =========================================== -->
 <p align="left">
-	I am a passionate <em>Full-Stack Developer</em>, dedicated to developing scalable, robust and elegant applications that live on the internet.
+	I am a passionate <strong><em>Full-Stack Developer</em></strong>, dedicated to developing scalable, robust and elegant applications that live on the internet.
 	Experienced in web-app design, and backend development. Graduated from <strong>BITS Pilani</strong> with a B.E. in Electronics and Instrumentation in 2021.
 	I take a problem-solving approach with a goal to optimize my applications for better stability and speed. Love to work with teams.
 </p>
