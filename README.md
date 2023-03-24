@@ -1,35 +1,40 @@
 <!-- =============================================== TITLE =========================================== -->
 <h1 align="center">
-	Hey! I'm Kunal Ladhani
-	<img src="./Hey.gif" width="40">
+	Hey! 
+		<img src="./Hey.gif" width="40" height="40">
+	I'm Kunal Ladhani.
 </h1>
 
 <!-- =============================================== SUB-TITLE =========================================== -->
-<p align="center">
-	I am a passionate Java Full-Stack Developer, dedicated to developing scalable, robust and elegant applications that live on the internet.
-	Experienced in web design, and API development. Recently graduated from BITS Pilani with a B.E. in Electronics and Instrumentation.
+<p align="left">
+	I am a passionate <em>Full-Stack Developer</em>, dedicated to developing scalable, robust and elegant applications that live on the internet.
+	Experienced in web-app design, and backend development. Graduated from <strong>BITS Pilani</strong> with a B.E. in Electronics and Instrumentation in 2021.
 	I take a problem-solving approach with a goal to optimize my applications for better stability and speed. Love to work with teams.
 </p>
+
 <!-- =============================================== IMAGE =========================================== -->
+<div align="right">	
 	<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right">
+</div>
+
 <br>
-<!-- =============================================== BADGES =========================================== 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Ladhani&label=Profile%20views&color=0e75b6&style=flat" align="left" />
-<br>
--->
 <!-- =============================================== ABOUT ME =========================================== -->
-<div>
+<div align="left">
 	<h2 align="center"> 🚀 About Me :</h2>
 	<ul>
-	<h4>- 🔭 I'm a Software Developer and I like to learn something new everyday.</h4>
-	<h4>- 💻 I've worked as a Graduate Trainee SWE at Vinculum Solutions, India.</h4>
-	<h4>- 👩‍💻 Previously, I've been a SDE Intern at Picxy, India.</h4>
-	<h4>- 📚 In my free time I love to learn about latest technologies and work on my problem-solving skills.</h4>
+		<li>🔭 I'm a Software Developer based out of India.</li>
+		<li>💻 I'm a SDE-1 at Niyo Solutions.</li>
+		<li>👩‍💻 Creating software that help easy banking for millions.</li>
+		<li>📚 In my free time I love to learn about latest technologies</li>
+		<li>💬 Ask me about : Tech, Software, Games, Web-apps, Cosmology, Black-Holes.</li>
+		<li>👯 I’m looking to collaborate on: Open-Source Projects, Community-Good Projects.</li>
+		<li>⚡ Fun fact: I can't watch a horror movie at night, still love to do it 😂.</li>
+		<li>😄 Pronouns: He/Him</li>
 	</ul>
 </div>
 
 <br>
-
+<br>
 <!-- =============================================== TECH STACK =========================================== -->
 
 <div align="left">
